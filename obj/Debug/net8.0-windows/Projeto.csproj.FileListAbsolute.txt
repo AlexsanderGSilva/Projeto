@@ -2,3 +2,4 @@ C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.GeneratedMSBuildEditorConfig.ed
 C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.AssemblyInfoInputs.cache
 C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.AssemblyInfo.cs
 C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.csproj.CoreCompileInputs.cache
+C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.sourcelink.json

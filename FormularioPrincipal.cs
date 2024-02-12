@@ -1,5 +1,7 @@
 using System;
 using System.Windows.Forms;
+using MinhaAplicacao.Models;
+using MinhaAplicacao.Services; 
 
 namespace MinhaAplicacao
 {
