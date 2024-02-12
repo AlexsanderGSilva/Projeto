@@ -1,0 +1,4 @@
+C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.AssemblyInfoInputs.cache
+C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.AssemblyInfo.cs
+C:\Etec\Projeto\obj\Debug\net8.0-windows\Projeto.csproj.CoreCompileInputs.cache
